@@ -13,6 +13,8 @@ public class Atribuicao {
 		c*=b; // c = c * a;
 		c/=a; // c = c / a;
 
+		c++;  // c = c + 1;
+		
 		System.out.println(c);
 		
 		c%=2; // c = c % 2; Ou 1
