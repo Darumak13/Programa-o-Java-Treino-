@@ -11,16 +11,9 @@ public class IfElse {
 
 		if (numero % 2 == 0) {
 			System.out.println("Número par!");
-		}
-		
-		if (numero % 2 == 1) {
-			System.out.println("Número ímpar");
-		}
-		
-		if (numero % 2 == 0) {
-			System.out.println("Número par!");
 		} else {
 			System.out.println("Número ímpar!");
 		}
+
 	}
 }
