@@ -6,7 +6,7 @@ public class Hash {
 	
 	public static void main(String[] args) {
 		
-		HashSet<Usuario> usuarios = new HashSet<Usuario>();
+		HashSet<Usuario> usuarios = new HashSet<>();
 		
 		usuarios.add(new Usuario("Pedro"));
 		usuarios.add(new Usuario("Ana"));
